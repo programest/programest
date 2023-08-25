@@ -1,5 +1,5 @@
 <div id="badges" >
-   <a href="https://t.me/zinu_4">
+   <a href="https://t.me/AdilMeyr">
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
 
