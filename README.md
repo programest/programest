@@ -211,9 +211,7 @@
 
 <h3 align="left">Algorithms:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/zinuu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zinuu4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/programest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="programest" height="30" width="40" /></a>
   
-<a href="https://www.codewars.com/users/zinuu4" target="blank"><img align="center" src="https://www.codewars.com/users/zinuu4/badges/large?theme=light" alt="zinuu4" height="30" width="270" /></a>
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zinuu4&" alt="zinuu4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programest&" alt="programest" /></p>
