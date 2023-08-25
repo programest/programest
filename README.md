@@ -68,8 +68,25 @@
     </td>
 </tr> 
 </table>
+>  Principles
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      
+      <br>SOLD
+    </td>
+    <td align="center" width="110" height="90"> 
+      <br>DRY
+    </td>
+       <td align="center" width="110" height="90"> 
+      <br>KISS
+    </td>
+  </tr> 
+</table>
 
 > Testing
+
 
 <table width='100%'>
   <tr>
