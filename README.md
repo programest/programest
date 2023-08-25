@@ -62,9 +62,9 @@
     </td>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/wgit-original.svg" width="36" height="36" alt="Sass" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github//github-original.svg" width="36" height="36" alt="github" />
       </a>
-      <br>Sass
+      <br>GitHub
     </td>
 </tr> 
 </table>
