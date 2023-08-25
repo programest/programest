@@ -80,12 +80,7 @@
       </a>
       <br>React JS
     </td>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
+     
  <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
@@ -112,24 +107,15 @@
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
+    
+    
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
+  
   </tr> 
 </table>
 
@@ -149,12 +135,7 @@
       </a>
       <br>RT library
     </td>
-        <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
-      </a>
-      <br>Storybook
-    </td>
+      
   </tr> 
 </table>
 
