@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/bJk.gif" width="100"/>
+  <img src="https://i.gifer.com/bJk.gif"/>
 </div>
 <table width='100%'>
    
