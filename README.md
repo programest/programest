@@ -73,14 +73,16 @@
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90"> 
-      
-      <br>SOLD
+      SOLD
+      <br>
     </td>
     <td align="center" width="110" height="90"> 
-      <br>DRY
+       DRY
+      <br>
     </td>
        <td align="center" width="110" height="90"> 
-      <br>KISS
+          KISS
+      <br>
     </td>
   </tr> 
 </table>
