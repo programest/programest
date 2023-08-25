@@ -4,7 +4,7 @@
    </a>
 </div>
 <div id="header" align="center">
-  <img src="https://i.gifer.com/5GJg.gif" width="100" height="50"/>
+  <img src="https://i.gifer.com/5GJg.gif" width="100" />
 </div>
 <h2 align="left" id="stack">Tech stack</h2>
 
