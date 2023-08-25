@@ -3,15 +3,15 @@
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
 </div>
-
-
+<br>
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+my+name+is+Adil!" alt="Typing SVG" /></a>
 
 <div id="header" align="center">
   <img src="5GJg.gif" width="600"  />
 </div>
-
-
+<br>
+<br>
 
 <table width='100%'>
    
