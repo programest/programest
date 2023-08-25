@@ -3,9 +3,10 @@
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="5GJg.gif"/>
+  <img src="5GJg.gif" style='width: 100%'/>
 </div>
 <table width='100%'>
    
