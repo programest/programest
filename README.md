@@ -3,8 +3,7 @@
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+my+name+is+Adil!" alt="Typing SVG" /></a>
 <div id="header" align="center">
   <img src="5GJg.gif" style='width: 100%'/>
 </div>
