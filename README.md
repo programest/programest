@@ -3,9 +3,7 @@
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
 </div>
-<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<h2 align="left" id="stack">Tech stack</h2>
-
+<div style="padding-top:73.333%;position:relative;"><iframe src="https://gifer.com/embed/5GJg" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
