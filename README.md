@@ -2,13 +2,10 @@
    <a href="https://t.me/AdilMeyr">
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
-
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/zinoviy-lebed-958515270/)">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
 </div>
-
+<div id="header" align="center">
+  <img src="https://i.gifer.com/5GJg.gif" width="100"/>
+</div>
 <h2 align="left" id="stack">Tech stack</h2>
 
 <table width='100%'>
@@ -100,15 +97,13 @@
       <br>Bootstrap
     </td>
   </tr> 
-    <tr>
+   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
-    
-    
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
@@ -116,7 +111,7 @@
       <br>Sass
     </td>
   
-  </tr> 
+</tr> 
 </table>
 
 > Testing
