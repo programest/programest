@@ -42,14 +42,12 @@
       </a>
       <br>Bootstrap
     </td>
-  </tr> 
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       </a>
       <br>ReactNative
     </td>
-   <tr>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
