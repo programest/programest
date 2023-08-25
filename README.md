@@ -58,9 +58,9 @@
     </td>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/wgit-original.svg" width="36" height="36" alt="Sass" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
       </a>
-      <br>Sass
+      <br>Git
     </td>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
@@ -97,22 +97,17 @@
   <tr>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
       </a>
-      <br>ESlint
+      <br>Figma
     </td>
-    <td align="center" width="110" height="90">
+     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="36" height="36" alt="photoshop" />
       </a>
-      <br>Prettier
+      <br>Photoshop
     </td>
-        <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
-      </a>
-      <br>Stylelint
-    </td>
+ 
   </tr> 
 </table>
 
@@ -135,9 +130,9 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original-wordmark.svg" width="36" height="36" alt="WebStorm" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" />
       </a>
-      <br>WebStorm
+      <br>Flutter
     </td>
   </tr> 
 </table>
